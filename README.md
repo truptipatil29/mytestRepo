@@ -1,2 +1,3 @@
 # mytestRepo
-my test repository
+
+This is test file to learn github
